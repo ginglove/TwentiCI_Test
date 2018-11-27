@@ -1,0 +1,24 @@
+{
+  "drivers": [
+    {
+      "type": "firefox",
+      "options": {
+        //"arguments": [ "--headless", "--disable-gpu", "--no-sandbox", "--window-size=1920,1080" ]
+        "arguments": [ "--start-maximized" ]
+      },
+
+      "service": {
+        "driverPath": "..\\LightHouseScreenTest\\LightHouseScreenTest"
+      }
+    }
+  ],
+
+  "useNUnitTestName": true,
+  "logNUnitError": true,
+  "takeScreenshotOnNUnitError": true,
+  "retryTimeout": 240,
+  "baseUrl": "http://test-lighthouse.creativeforce.io/",
+
+  "screenShotFileOutput": "D:\\log\\Screenshot",
+  "rtbConnectionString": "172.16.7.167;Persist Security Info=True;User ID=lighthouse;Password=lighthouse;MultipleActiveResultSets=true"
+}
