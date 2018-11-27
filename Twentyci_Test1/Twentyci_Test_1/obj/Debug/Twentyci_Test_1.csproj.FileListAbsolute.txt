@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\bin\Debug\Twentyci_Test_1.exe.config
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\bin\Debug\Twentyci_Test_1.exe
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\bin\Debug\Twentyci_Test_1.pdb
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\obj\Debug\Twentyci_Test_1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\obj\Debug\Twentyci_Test_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\obj\Debug\Twentyci_Test_1.exe
+C:\Users\admin\source\repos\Twentyci_Test_1\Twentyci_Test_1\obj\Debug\Twentyci_Test_1.pdb
