@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Atata.Configuration.Json</name>
+    </assembly>
+    <members>
+        <member name="P:Atata.Configuration.Json.DriverJsonSection.CommandTimeout">
+            <summary>
+            Gets or sets the command timeout in seconds.
+            </summary>
+        </member>
+        <member name="T:Atata.Configuration.Json.JsonConfig">
+            <summary>
+            Represents JSON configuration.
+            </summary>
+        </member>
+        <member name="T:Atata.Configuration.Json.JsonConfigFile">
+            <summary>
+            Provides static methods for loading of JSON configuration from file.
+            </summary>
+        </member>
+        <member name="F:Atata.Configuration.Json.JsonConfigFile.DefaultFileName">
+            <summary>
+            The default file name is "Atata".
+            </summary>
+        </member>
+        <member name="F:Atata.Configuration.Json.JsonConfigFile.DefaultFileExtension">
+            <summary>
+            The default file extension is ".json".
+            </summary>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.Read(System.String,System.String)">
+            <summary>
+            Reads the JSON config file and deserializes it to an object of <see cref="T:Atata.Configuration.Json.JsonConfig"/> type.
+            </summary>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The deserialized object of <see cref="T:Atata.Configuration.Json.JsonConfig"/> type.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.Read``1(System.String,System.String)">
+            <summary>
+            Reads the JSON config file and deserializes it to an object of <typeparamref name="TConfig"/> type.
+            </summary>
+            <typeparam name="TConfig">The type of the configuration class.</typeparam>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The deserialized object of <typeparamref name="TConfig"/> type.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.ReadText(System.String,System.String)">
+            <summary>
+            Reads the text from the JSON config file.
+            </summary>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>A string containing content of JSON file.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.ReadDriverAliasesFromDefaultConfig">
+            <summary>
+            Reads the default "Atata.json" config file, deserializes it and returns the driver aliases.
+            </summary>
+            <returns>An array of the driver aliases.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.ReadDriverAliases(System.String,System.String)">
+            <summary>
+            Reads the JSON config file, deserializes it and returns the driver aliases.
+            </summary>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>An array of the driver aliases.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.GetFullPath(System.String,System.String)">
+            <summary>
+            Returns the full/absolute path for the file using optionally <paramref name="filePath"/> and <paramref name="environmentAlias"/> arguments.
+            </summary>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The full file path.</returns>
+        </member>
+        <member name="M:Atata.Configuration.Json.JsonConfigFile.GetRelativePath(System.String,System.String)">
+            <summary>
+            Returns the relative path for the file using optionally <paramref name="filePath"/> and <paramref name="environmentAlias"/> arguments.
+            </summary>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The relative file path.</returns>
+        </member>
+        <member name="T:Atata.Configuration.Json.JsonConfig`1">
+            <summary>
+            Represents JSON configuration.
+            </summary>
+            <typeparam name="TConfig">The type of the configuration class.</typeparam>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.Global">
+            <summary>
+            Gets or sets the global <see cref="T:Atata.Configuration.Json.JsonConfig`1"/> instance.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.Current">
+            <summary>
+            Gets or sets the current <see cref="T:Atata.Configuration.Json.JsonConfig`1"/> instance.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.RetryTimeout">
+            <summary>
+            Gets or sets the base retry timeout in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.RetryInterval">
+            <summary>
+            Gets or sets the base retry interval in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.BaseRetryTimeout">
+            <summary>
+            Gets or sets the base retry timeout in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.BaseRetryInterval">
+            <summary>
+            Gets or sets the base retry interval in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.ElementFindTimeout">
+            <summary>
+            Gets or sets the element find timeout in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.ElementFindRetryInterval">
+            <summary>
+            Gets or sets the element find retry interval in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.WaitingTimeout">
+            <summary>
+            Gets or sets the waiting timeout in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.WaitingRetryInterval">
+            <summary>
+            Gets or sets the waiting retry interval in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.VerificationTimeout">
+            <summary>
+            Gets or sets the verification timeout in seconds.
+            </summary>
+        </member>
+        <member name="P:Atata.Configuration.Json.JsonConfig`1.VerificationRetryInterval">
+            <summary>
+            Gets or sets the verification retry interval in seconds.
+            </summary>
+        </member>
+        <member name="T:Atata.Configuration.Json.JsonSection">
+            <summary>
+            Represents JSON section.
+            </summary>
+        </member>
+        <member name="T:Atata.JsonAtataContextBuilderExtensions">
+            <summary>
+            Provides a set of extension methods for <see cref="T:Atata.AtataContextBuilder"/> configuration through JSON config files.
+            </summary>
+        </member>
+        <member name="M:Atata.JsonAtataContextBuilderExtensions.ApplyJsonConfig(Atata.AtataContextBuilder,System.String,System.String)">
+            <summary>
+            Applies JSON configuration from the file. By default reads "Atata.json" file.
+            </summary>
+            <param name="builder">The builder.</param>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The <see cref="T:Atata.AtataContextBuilder"/> instance.</returns>
+        </member>
+        <member name="M:Atata.JsonAtataContextBuilderExtensions.ApplyJsonConfig``1(Atata.AtataContextBuilder,System.String,System.String)">
+            <summary>
+            Applies JSON configuration from the file. By default reads "Atata.json" file.
+            </summary>
+            <typeparam name="TConfig">The type of the configuration class.</typeparam>
+            <param name="builder">The builder.</param>
+            <param name="filePath">The file path.</param>
+            <param name="environmentAlias">The environment alias.</param>
+            <returns>The <see cref="T:Atata.AtataContextBuilder"/> instance.</returns>
+        </member>
+        <member name="M:Atata.JsonAtataContextBuilderExtensions.ApplyJsonConfig``1(Atata.AtataContextBuilder,Atata.Configuration.Json.JsonConfig{``0})">
+            <summary>
+            Applies JSON configuration from <paramref name="config"/> parameter.
+            </summary>
+            <typeparam name="TConfig">The type of the configuration class.</typeparam>
+            <param name="builder">The builder.</param>
+            <param name="config">The configuration.</param>
+            <returns>The <see cref="T:Atata.AtataContextBuilder"/> instance.</returns>
+        </member>
+    </members>
+</doc>

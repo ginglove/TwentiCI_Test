@@ -1,0 +1,99 @@
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Components\AppConfig.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Components\BaseObject.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Components\DirectoryHelper.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Components\JsonHelper.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\JsonObjects\Json_TwentyCi.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Utilities\UtilitiesCommon.cs
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\TestCases\TwentyCi_Test.json
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.pdb
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.xml
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CopyComplete
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\source\repos\TwentyCi_Test_Selenium_2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Components\AppConfig.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Components\BaseObject.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Components\DirectoryHelper.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Components\JsonHelper.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\JsonObjects\Json_TwentyCi.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Utilities\UtilitiesCommon.cs
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\TestCases\TwentyCi_Test.json
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.pdb
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csprojAssemblyReference.cache
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CopyComplete
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\Documents\New folder (2)\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Components\AppConfig.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Components\BaseObject.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Components\DirectoryHelper.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Components\JsonHelper.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\JsonObjects\Json_TwentyCi.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Utilities\UtilitiesCommon.cs
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\TestCases\TwentyCi_Test.json
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\TwentyCi_Test_Selenium_2.pdb
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.Configuration.Json.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\Atata.WebDriverExtras.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.pdb
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\GitHub\TwentiCI_Test\Twentyci_Test2\TwentyCi_Test_Selenium_2\obj\Debug\TwentyCi_Test_Selenium_2.csproj.CopyComplete
