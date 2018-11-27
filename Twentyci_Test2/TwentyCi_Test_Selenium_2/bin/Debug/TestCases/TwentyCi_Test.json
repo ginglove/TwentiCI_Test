@@ -1,0 +1,14 @@
+{
+  "Input": {
+    "URL": "https://www.rightmove.co.uk/",
+    "SearchValue": "Milton Keynes",
+    "CompareSearchValue": "Milton Keynes, Buckinghamshire",
+    "AreaRadius": "",
+    "MinBed": "2",
+    "MaxBed": "3",
+    "MinPrice": "",
+    "MaxPrice": "35000",
+    "PropertyValue": "",
+    "AddedToSite": ""
+  }
+}
